@@ -1,0 +1,15 @@
+C:\саша\знакомство с языками программирования\Домашнее задание_6\Hw6_task1\bin\Debug\net6.0\Hw6_task1.exe
+C:\саша\знакомство с языками программирования\Домашнее задание_6\Hw6_task1\bin\Debug\net6.0\Hw6_task1.deps.json
+C:\саша\знакомство с языками программирования\Домашнее задание_6\Hw6_task1\bin\Debug\net6.0\Hw6_task1.runtimeconfig.json
+C:\саша\знакомство с языками программирования\Домашнее задание_6\Hw6_task1\bin\Debug\net6.0\Hw6_task1.dll
+C:\саша\знакомство с языками программирования\Домашнее задание_6\Hw6_task1\bin\Debug\net6.0\Hw6_task1.pdb
+C:\саша\знакомство с языками программирования\Домашнее задание_6\Hw6_task1\obj\Debug\net6.0\Hw6_task1.csproj.AssemblyReference.cache
+C:\саша\знакомство с языками программирования\Домашнее задание_6\Hw6_task1\obj\Debug\net6.0\Hw6_task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\саша\знакомство с языками программирования\Домашнее задание_6\Hw6_task1\obj\Debug\net6.0\Hw6_task1.AssemblyInfoInputs.cache
+C:\саша\знакомство с языками программирования\Домашнее задание_6\Hw6_task1\obj\Debug\net6.0\Hw6_task1.AssemblyInfo.cs
+C:\саша\знакомство с языками программирования\Домашнее задание_6\Hw6_task1\obj\Debug\net6.0\Hw6_task1.csproj.CoreCompileInputs.cache
+C:\саша\знакомство с языками программирования\Домашнее задание_6\Hw6_task1\obj\Debug\net6.0\Hw6_task1.dll
+C:\саша\знакомство с языками программирования\Домашнее задание_6\Hw6_task1\obj\Debug\net6.0\refint\Hw6_task1.dll
+C:\саша\знакомство с языками программирования\Домашнее задание_6\Hw6_task1\obj\Debug\net6.0\Hw6_task1.pdb
+C:\саша\знакомство с языками программирования\Домашнее задание_6\Hw6_task1\obj\Debug\net6.0\Hw6_task1.genruntimeconfig.cache
+C:\саша\знакомство с языками программирования\Домашнее задание_6\Hw6_task1\obj\Debug\net6.0\ref\Hw6_task1.dll
